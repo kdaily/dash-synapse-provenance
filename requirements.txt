@@ -1,0 +1,4 @@
+-e git+https://github.com/kdaily/synapsePythonClient.git@d42a616fefe24d2cce19afd5e17f90ccb04e5fd4#egg=synapseclient
+prov==1.5.2
+pydot==1.2.4
+gunicorn
